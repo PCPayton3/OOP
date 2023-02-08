@@ -1,0 +1,29 @@
+__init__
+    it is called every time an obejct is created form a class
+    shown in line 10-11
+    it initializes the sideup data attribute with "Heads"
+
+self 
+    is considered an instance in line 11
+    sideup is the side of the coin
+    self."****" is the defined object
+    whatever is assigned after the 'self.' it will be the defined attribute
+
+mutator method (set method)
+    it can change the value of the attribute
+    shown in line 18-22
+
+get method 
+    returns the value of an attribute
+    called an "accessor method"
+    shown in line 27-28 coinclass
+
+you want to keep the mutator and get methods seperate
+
+import    
+    whatever you import, it is in the name of the file
+    shown in coin toss line 1
+
+the CoinClass file will run and quit, but will not display data 
+because it is just a definition file
+
