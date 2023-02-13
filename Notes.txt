@@ -27,3 +27,8 @@ import
 the CoinClass file will run and quit, but will not display data 
 because it is just a definition file
 
+.___""
+    the .___ means that the attribute is hidden
+    going forward, we want to hide our attributes
+
+
