@@ -30,5 +30,3 @@ because it is just a definition file
 .___""
     the .___ means that the attribute is hidden
     going forward, we want to hide our attributes
-
-
